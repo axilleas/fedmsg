@@ -64,6 +64,7 @@ install_requires = [
     'moksha.hub>=1.2.0',
     'requests',
     'pygments',
+    'cloud_sptheme',
     #'daemon',
 
     # These are "optional" for now to make installation from pypi easier.
