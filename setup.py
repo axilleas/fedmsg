@@ -65,6 +65,7 @@ install_requires = [
     'requests',
     'pygments',
     'cloud_sptheme',
+    'nose',
     #'daemon',
 
     # These are "optional" for now to make installation from pypi easier.
