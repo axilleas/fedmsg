@@ -66,6 +66,7 @@ install_requires = [
     'pygments',
     'cloud_sptheme',
     'nose',
+    'fedmsg_meta_fedora_infrastructure',
     #'daemon',
 
     # These are "optional" for now to make installation from pypi easier.
